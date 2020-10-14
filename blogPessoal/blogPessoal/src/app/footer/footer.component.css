@@ -1,0 +1,44 @@
+/* footer social icons */
+
+ul.social-network {
+    list-style: none;
+    display: inline;
+  
+    padding: 0;
+  }
+  
+  ul.social-network li {
+    display: inline;
+    margin: 0;
+    padding: 5px;
+  }
+  
+  .faFacebook, .faLinkedin, .faInstagram{
+      color:  #4682b4;
+  }
+  
+  .faFacebook:hover{
+    color: #3b5998;
+  }
+  
+  .faLinkedin:hover{
+  color: #0072b1;
+  }
+  
+  .faInstagram:hover{
+  color: #C13584;
+  }
+
+  .cores{
+    background-color: #afeeee;
+
+    
+  }
+
+  .corCopyRight {
+    background-color: #4682b4;
+  }
+
+  .corTexto {
+    color: #4682b4;
+  }
